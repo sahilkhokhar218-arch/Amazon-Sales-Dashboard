@@ -101,11 +101,9 @@ The dataset contains Amazon product information including:
 ---
 
 ##  Dashboard Preview
+<img width="759" height="431" alt="Screenshot 2026-06-02 104041" src="https://github.com/user-attachments/assets/9c05aced-bb28-403c-ba97-82830a2d9438" />
 
-Add your dashboard screenshot here:
 
-```markdown
-![Dashboard Screenshot](<img width="759" height="431" alt="Screenshot 2026-06-02 104041" src="https://github.com/user-attachments/assets/a846fe76-74e0-44f9-b1be-e2b6a1620497" />
 )
 ```
 
