@@ -105,7 +105,8 @@ The dataset contains Amazon product information including:
 Add your dashboard screenshot here:
 
 ```markdown
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](<img width="759" height="431" alt="Screenshot 2026-06-02 104041" src="https://github.com/user-attachments/assets/a846fe76-74e0-44f9-b1be-e2b6a1620497" />
+)
 ```
 
 ---
